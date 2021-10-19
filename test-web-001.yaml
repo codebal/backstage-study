@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-web-001
+  description: test test 한글 나옴?
+spec:
+  type: website
+  lifecycle: production
+  owner: spadeace
+  system: test-system
