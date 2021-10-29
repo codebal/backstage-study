@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-web-001
-  description: test test 한글 나옴?
+  description: test test 한글 나옴11?
   annotations:
     circleci.com/project-slug: github/my-org/my-repo
 spec:
